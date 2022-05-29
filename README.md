@@ -1,4 +1,4 @@
-A newbie developer in Brazil. Student of System Analysis and Development in Garça, São Paulo.
+A beginner developer in Brazil. Student of System Analysis and Development in Garça, São Paulo.
 My interest center around cloud computing and Web Applications, with a minor focus on mobile development.
 Currently learning Java 17 and Kotlin.
 
