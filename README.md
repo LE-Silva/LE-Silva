@@ -1,6 +1,6 @@
 A beginner developer in Brazil. Student of System Analysis and Development in Garça, São Paulo.
-My interest center around cloud computing and Web Applications, with a minor focus on mobile development.
-Currently learning Java 17 and Kotlin.
+My interest center around Desktop Development and Web Applications.
+Currently learning C# and Rust.
 
 <!---
 LE-Silva/LE-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
